@@ -52,7 +52,6 @@
   "giftv.coffee",
   "git-help.coffee",
   "github-activity.coffee",
-  "github-commit-link.coffee",
   "github-commits.coffee",
   "github-commiters.coffee",
   "github-credentials.coffee",
