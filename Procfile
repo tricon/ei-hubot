@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n Tacitus
+web: bin/hubot -a slack -n TariBot
